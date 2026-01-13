@@ -1,0 +1,17 @@
+# Python
+__pycache__/
+*.py[cod]
+*$py.class
+.venv/
+venv/
+ENV/
+
+# Project Specific
+project/
+idea.txt
+prd.md
+progress.txt
+
+# Local files
+.env
+*.log
